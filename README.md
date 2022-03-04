@@ -2,8 +2,7 @@
 
   <div align="center">
   <a href="https://github.com/lichtle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <h3>🐻‍❄️ Estou aprendendo: HTML & CSS</h3>
