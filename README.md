@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/lichtle">
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img  height ="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=tokyonight"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img  height ="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=tokyonight"/>
   </div>
   
   <h3>🐻‍❄️ Estou aprendendo: HTML & CSS</h3>
