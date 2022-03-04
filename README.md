@@ -8,7 +8,8 @@
   
   <h3>🐻‍❄️ Estou aprendendo: HTML & CSS</h3>
   <h3>🐨 <a href="https://www.linkedin.com/in/leticianegreiros/">LinkedIn</a></h3>
-  <h3>🦄 E-mail: leticia.negreiros@outlook.com</h3>
+  <h3>🐘 E-mail: leticia.negreiros@outlook.com</h3>
+  <h3>🐑 <a href="https://lichtle.github.io/">github.io</a></h3>
   <h3>🐮 Instagram: @landsgam & @leinthekitchen</h3>
     
   <!--
