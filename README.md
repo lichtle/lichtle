@@ -6,7 +6,7 @@
    <img  height ="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=tokyonight"/>
   </div>
   
-  <h3>🐻‍❄️ Estou aprendendo: HTML & CSS</h3>
+  <h3>🐻‍❄️ Estou aprendendo: HTML, CSS e JavaScript</h3>
   <h3>🐨 <a href="https://www.linkedin.com/in/leticianegreiros/" target="_blank">LinkedIn</a></h3>
   <h3>🐘 E-mail: leticia.negreiros@outlook.com</h3>
   <h3>🐑 <a href="https://lichtle.github.io/" target="_blank">github.io</a></h3>
