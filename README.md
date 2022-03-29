@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Leticia! 🐰 Sou estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>.</h2>
+<h2>Olá, meu nome é Leticia! 🐰 Sou estudante de Desenvolvimento Web.</h2>
 
 <div>
   <a href="https://github.com/lichtle">
