@@ -2,14 +2,15 @@
 
 <div>
   <a href="https://github.com/lichtle">
-  <img height="175em"  src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img  height ="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=tokyonight"/>
+  <img height="175em"  src="https://github-readme-stats.vercel.app/api?username=lichtle&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img  height ="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=material-palenight"/>
   </div>
   
-  <h3>🐱 Estou aprendendo: HTML, CSS e JavaScript</h3>
+  <h2>🐱 Estou aprendendo: HTML, CSS e JavaScript</h2>
   <h3>🐨 <a href="https://www.linkedin.com/in/leticianegreiros/" target="_blank">LinkedIn</a></h3>
   <h3>🐘 <a href="mailto:leticia.negreiros@outlook.com">E-mail</a></h3>
   <h3>🐑 <a href="https://lichtle.github.io/" target="_blank">Portfólio</a></h3>
+  <h3>🐯 <a href="https://discordapp.com/users/736759479764254731" target="_blank">Discord</a></h3>
   <h3>🐮 Instagram: <a href="https://instagram.com/landsgam" target="_blank">@landsgam</a> & <a href="https://instagram.com/leinthekitchen" target="_blank">@leinthekitchen</a></h3>
 
   <!--
