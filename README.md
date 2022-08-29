@@ -1,4 +1,5 @@
-## Olá, meu nome é Leticia! 🐰 <br><br> Sou estudante de Desenvolvimento Web.
+## Olá, meu nome é Leticia! :rabbit:
+### Sou estudante de Desenvolvimento Web do curso DevQuest.
 
 <div>
   <a href="https://github.com/lichtle">
@@ -6,27 +7,27 @@
    <img  height ="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichtle&&langs_count=7&theme=material-palenight"/>
    </div>
    
-   ### 🐱 Estou aprendendo: HTML, CSS e JavaScript 🐱
-   ### 🐨 Meus links 🐨
+   ### :cat:  [Meu repo de exercícios do curso](https://github.com/lichtle/curso-dev-quest) :cat: 
+   ### :mouse: Meus links :mouse:
    
   <a href="https://www.linkedin.com/in/leticianegreiros/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-LinkedIn-2D93AD?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   
   <a href="https://lichtle.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfólio-E28413?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Portfólio-F1C40F?logo=github&logoColor=white&style=for-the-badge">
   </a>
   
   <a href="mailto:leticia.negreiros@outlook.com">
-  <img src="https://img.shields.io/badge/-Email-23967F?logo=microsoftoutlook&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Email-51CB20?logo=microsoftoutlook&logoColor=white&style=for-the-badge">
   </a>
   
   <a href="https://instagram.com/landsgam" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Instagram-F87666?logo=instagram&logoColor=white&style=for-the-badge">
   </a>
   
   <a href="https://discordapp.com/users/736759479764254731" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Discord-9368B7?logo=discord&logoColor=white&style=for-the-badge">
   </a>
 
   <!--
